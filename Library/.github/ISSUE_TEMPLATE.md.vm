@@ -1,0 +1,23 @@
+#set( $HS = "#" )
+
+<!-- CLICK "Preview" FOR INSTRUCTIONS IN A MORE READABLE FORMAT -->
+
+${HS}${HS} Prerequisites
+
+- Ensure the issue isn't already reported.
+- Ensure you are reporting the bug in the correct repository.
+
+*Delete the above section and the instructions in the sections below before submitting*
+
+${HS}${HS} Description
+
+If this is a feature request, explain why it should be added. Specific use-cases and problems that it solve are best.
+
+For bug reports, please provide as much *relevant* info as possible.
+
+${HS}${HS} Package version
+<!-- YOUR ANSWER -->
+
+${HS}${HS} Error Message & Stack Trace
+
+${HS}${HS} Relevant Information
